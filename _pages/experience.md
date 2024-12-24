@@ -9,6 +9,6 @@ children:
     permalink: /teaching/
   - title: divider
   - title: Course Work
-    permalink: /course_work/
+    permalink: /coursework/
   
 ---
