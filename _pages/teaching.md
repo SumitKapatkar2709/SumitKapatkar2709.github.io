@@ -1,12 +1,27 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Teaching experience and courses taught.
 nav: false
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Teaching Experience
 
-Organize your courses by years, topics, or universities, however you like!
+### BITS Pilani, Rajasthan
+- **Computer Programming**  
+  Teaching Assistant with Prof. Jagat Sesh Challa (Oct 2022 – Jan 2023)
+
+- **Data Structures and Algorithms**  
+  Teaching Assistant with Prof. Vishal Gupta (Jan 2021 – May 2021)
+
+- **Logic in Computer Science**  
+  Teaching Assistant with Prof. Jagat Sesh Challa (Aug 2021 – Dec 2021)
+
+- **Object-Oriented Programming Language**  
+  Teaching Assistant with Prof. Avinash Gautam (Jan 2024 – May 2024)
+
+### VIT University, Bhopal, MP
+- **Introduction to Python**  
+  Teaching Assistant (Sept 2020 – Nov 2020)
