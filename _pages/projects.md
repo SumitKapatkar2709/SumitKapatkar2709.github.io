@@ -9,57 +9,21 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+## Projects
 
-{% else %}
+### 1. Development of AI-Empowered Vision-Based Driver Support System for Autonomous Vehicles
+- **Fellowship Name**: CHANAKYA PhD Fellowships scheme (Fellowships Programme) of IIT-Indore DRISHTI CPS Foundation under the National Mission on Interdisciplinary Cyber Physical System (NM-ICPS) of Department of Science and Technology, Government of India
+- **Fellowship Awardee**: Oshin Rawlley
+- **Sanctioned Amount**: ₹15.57 lakhs
+- **Project Duration**: 2022–2025
+- **Status**: Ongoing
+- **Website Link**: [Result List of Selected Projects](https://drive.google.com/file/d/1EMvWRdc0G1f8RLEaERxDX247xrUP1Bry/view) <!-- Replace with actual link -->
 
-<!-- Display projects without categories -->
+---
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+### 2. Development of Low-Cost Federated Learning Empowered Digital Twin Framework for Structural Health Monitoring (SHM) of Roads and Bridges built under PMGSY
+- **Sponsored Agency**: I-DAPT HUB FOUNDATION, Indian Institute of Technology (BHU) Varanasi
+- **Job Role**: Project Intern
+- **Sanctioned Amount**: ₹11.88 lakhs
+- **Project Duration**: 2023–2025
+- **Status**: Ongoing
