@@ -46,4 +46,3 @@ nav_order: 6
 
 ---
 
-This layout ensures clear organization, highlights your key experiences, and enhances readability.
