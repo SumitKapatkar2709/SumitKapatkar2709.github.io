@@ -12,16 +12,11 @@ nav_order: 7
 ### BITS Pilani, Rajasthan
 
 - **Data Mining**  
-  Taught by Prof. Poonam Goyal
 
 - **Advanced Algorithms and Complexity**  
-  Taught by Prof. Abhishek Mishra
 
 - **Design and Analysis of Algorithms**  
-  Taught by Prof. Abhishek Mishra
 
 - **Machine Learning**  
-  Taught by Prof. Kamlesh Tiwari
 
 - **Data Structures**  
-  Taught by Prof. Vishal Gupta
