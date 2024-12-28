@@ -2,16 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Sumit Kapatkar # the website title (if blank, full name will be used instead)
-first_name: Sumit
+title: Oshin Rawlley  # the website title (if blank, full name will be used instead)
+first_name: Oshin
 middle_name:
-last_name: Kapatkar
-email: sumitkapatkar3@gmail.com
+last_name: Rawlley
+email:  oshinrawlley1@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 
 footer_text: >
 
-keywords: gaurang, bansal, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: oshin, rawlley, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
