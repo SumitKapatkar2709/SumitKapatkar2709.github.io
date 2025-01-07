@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Development of Low-Cost Federated Learning Empowered Digital Twin Framework
+title: Development of Low-Cost Federated Learning Empowered Digital Twin Framework for Structural Health Monitoring (SHM)
 permalink: /projects/digital-twin-shm/
 ---
 
-# Development of Low-Cost Federated Learning Empowered Digital Twin Framework for Structural Health Monitoring (SHM)
+
 
 ## Project Overview
 This project aims to create a federated learning-enabled digital twin framework for monitoring the structural health of roads and bridges built under PMGSY. The framework leverages cost-effective technologies to ensure scalability and reliability in real-world deployments.

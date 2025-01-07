@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Development of AI-Empowered Vision-Based Driver Support System
+title: Development of AI-Empowered Vision-Based Driver Support System for Autonomous Vehicles
 permalink: /projects/ai-empowered-driver-support/
 ---
 
-# Development of AI-Empowered Vision-Based Driver Support System for Autonomous Vehicles
+
 
 ## Project Overview
 This project focuses on developing an AI-powered driver support system that enhances the safety and reliability of autonomous vehicles. By leveraging advanced vision-based algorithms and robust object detection mechanisms, the system can operate seamlessly in dynamic driving environments.

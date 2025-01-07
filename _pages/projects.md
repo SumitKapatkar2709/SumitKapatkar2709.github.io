@@ -2,14 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Explore my recent projects by clicking on the images below:
 nav: true
 nav_order: 3
 ---
 
-# Projects
 
-Explore my recent projects by clicking on the images below:
+
 
 <div class="row">
   <div class="col-md-6">
